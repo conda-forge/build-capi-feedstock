@@ -1,7 +1,7 @@
 About build-capi
 ================
 
-Home: https://github.com/glimix/build-capi
+Home: https://github.com/limix/build-capi
 
 Package license: MIT
 
