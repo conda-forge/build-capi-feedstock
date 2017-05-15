@@ -32,13 +32,13 @@ test:
     - python -c "import build_capi"
 
 about:
-  home: https://github.com/glimix/build-capi
+  home: https://github.com/limix/build-capi
   license: MIT
   license_family: MIT
   license_file: LICENSE
   summary: 'Build and distribute C/C++ static libraries'
-  doc_url: https://github.com/glimix/build-capi
-  dev_url: https://github.com/glimix/build-capi
+  doc_url: https://github.com/limix/build-capi
+  dev_url: https://github.com/limix/build-capi
 
 extra:
   recipe-maintainers:
